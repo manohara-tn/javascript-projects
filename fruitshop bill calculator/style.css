@@ -1,0 +1,38 @@
+body{
+    font-size: "Open Sans", sans-serif;
+    color: #444444;
+    background-color: chocolate;
+}
+
+h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: chocolate ;
+    background-color:cornsilk ;
+}
+button{
+    background-color: cornsilk;
+    color: chocolate;
+    font-size: xx-large;
+    border-radius: 5px;
+   
+}
+.container{
+    color: cornsilk;
+    text-align: center;
+    font-size:x-large;
+}
+
+#amount, #quantity, #gst{
+	width: 250px;
+	height: 25px;
+	font-size: 0.8em;
+}
+
+#result{
+	padding-top: 25px;
+	font-size: 1.8em;
+}
+
+
